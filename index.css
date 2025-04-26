@@ -764,12 +764,12 @@ section {
 @media (max-width: 768px) {
     .hamburger {
         display: block;
-        margin-bottom: 80%;
+        margin-bottom: 90%;
     }
     .logo img{
-        height: 165px;
+        height: 145px;
         width: 250px;
-        margin-bottom: 70%;
+        margin-bottom: 90%;
     }
     
     
